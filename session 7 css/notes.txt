@@ -10,3 +10,9 @@ poshte.
 ----- display: block; eshte plotesishte e njejt me inline-block
 vetem se elementet nuk shkojn njera pas tjetres horizontalisht
 por pas qdo elementi te bere display kalojme ne nje rresht te ri.
+
+
+----- position: relative; ndryshon pozicionin ne raport me parentin
+----- position: absolute; ndryshon pozicionin ne raport me viewport
+----- position: fixed; njesoj si absolute mirpo e run ate pozit edhe
+      nese bojm scrolls
