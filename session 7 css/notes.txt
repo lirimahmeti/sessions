@@ -1,0 +1,12 @@
+Kur perdorim display: inline; ne css marginat jane ne dispozicion
+vetem left dhe right por jo top dhe bottom. Edhe width/height
+nuk funksionon per inline
+
+----- Kur perdorim display: inline-block; ne css marginat jane
+ne dispozicion prej te gjitha aneve gjithashtu edhe width/height.
+Elementet shkojn njeri pas tjetrit deri sa ka vend pastaj kalojn
+poshte.
+
+----- display: block; eshte plotesishte e njejt me inline-block
+vetem se elementet nuk shkojn njera pas tjetres horizontalisht
+por pas qdo elementi te bere display kalojme ne nje rresht te ri.
