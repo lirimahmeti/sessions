@@ -16,3 +16,6 @@ por pas qdo elementi te bere display kalojme ne nje rresht te ri.
 ----- position: absolute; ndryshon pozicionin ne raport me viewport
 ----- position: fixed; njesoj si absolute mirpo e run ate pozit edhe
       nese bojm scrolls
+----- position: sticky; poziten fillestare e ka ashtu si ne e kemi caktuar
+      por kur ne bejme sroll edhe caktojm top pixelat ateher kur arrijme tek ata
+      pixela objekti qendron aty.
